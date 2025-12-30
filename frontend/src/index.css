@@ -1,0 +1,19 @@
+@import "leaflet/dist/leaflet.css";
+:root {
+  --primary: #4f46e5; /* Indigo */
+  --primary-light: #6366f1;
+  --background: #f8fafc;
+}
+
+body {
+  background-color: var(--background);
+}
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+}
