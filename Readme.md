@@ -34,7 +34,7 @@ RouteOpt is a logistics-focused web application that intelligently assigns deliv
 ---
 
 ## Project Structure
-
+```
 RouteOpt/
 ├── backend/
 │ ├── models/
@@ -49,6 +49,7 @@ RouteOpt/
 │ └── main.jsx
 ├── index.html
 └── README.md
+```
 
 ## How to Run Locally
 
